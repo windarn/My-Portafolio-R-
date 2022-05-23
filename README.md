@@ -14,4 +14,4 @@ This is my portafolio of data science projects on R
 * R
 * SQL
 * GGPLOT2
-* etc.
+* Others.
